@@ -26,7 +26,7 @@
 ### Claude Code
 
 ```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/personal-site.git ~/.claude/skills/personal-site
+git clone https://github.com/candyliushuhappy/personal-site.git ~/.claude/skills/personal-site
 ```
 
 如果目录已存在，先备份再克隆。安装完成后，在对话里说「帮我做个个人官网」，或直接输入：
